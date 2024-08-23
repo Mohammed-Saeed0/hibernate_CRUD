@@ -1,4 +1,4 @@
-package com.hibernate.projects;
+package com.hibernate.entity;
 
 import jakarta.persistence.*;
 
